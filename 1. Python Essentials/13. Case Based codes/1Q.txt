@@ -1,0 +1,15 @@
+Problem Statement
+Write a Python program that takes marks of 5 subjects as input.
+Your program should:
+
+Store the marks in a list.
+Calculate the average marks.
+Find the highest and lowest marks.
+
+Display the grade using:
+| Average | Grade |
+| ------- | ----- |
+| 90+     |   A   |
+| 75-89   |   B   |
+| 60-74   |   C   |
+| Below 60 |  D   |

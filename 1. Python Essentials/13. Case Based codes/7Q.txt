@@ -1,0 +1,8 @@
+Problem Statement 7 :
+
+Take player names and runs for 5 players.
+Store them in a dictionary.
+
+Display -->
+Highest scorer.
+Average score.

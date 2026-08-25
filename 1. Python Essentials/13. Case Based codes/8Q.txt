@@ -1,0 +1,8 @@
+Problem Statement: 
+
+Input two sets of subjects.
+
+Display -->
+Common subjects.
+Subjects only for first student.
+Subjects only for second student.

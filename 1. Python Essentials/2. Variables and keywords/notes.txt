@@ -1,0 +1,12 @@
+DATA-TYPES :
+
+1. Integer --> int
+eg: 50, 4, -6, 0, 22
+
+2. Float --> decimal (also called double)
+eg: 5.7, -4.5, 3.6, 2.0
+
+3. String (text data) --> str
+"Aditya", "Nagpur" , "Aditya Jain"
+
+4. Boolean --> True/False --> bool

@@ -1,0 +1,8 @@
+Problem Statement:
+
+Take a string as input from the user.
+Display -->
+Number of vowels.
+Number of consonants.
+Number of digits.
+Number of spaces.

@@ -1,0 +1,11 @@
+File Handling:
+
+--> Most commonly used types of files in AIML Are text files, csv files.
+    => csv: comma separated values.
+        Example: Name,Marks,City
+
+    => Methodes to open a file:
+       r -> read
+       w -> write
+       a -> append
+       x -> creating a new file

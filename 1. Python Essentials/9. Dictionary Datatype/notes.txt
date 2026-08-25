@@ -1,0 +1,6 @@
+  # Syntax:
+dic_name = { key1 : value1 , key2 : value2 }
+--> Collection of key-value pairs.
+
+  # There is no concept of indexing in dictionary.
+We have to access by key name.

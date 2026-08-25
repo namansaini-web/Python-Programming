@@ -1,0 +1,31 @@
+1. Arthmetic Operators: 
+   + , - , * , ** , / , // , %
+
+
+2. Comparison Operators:
+   < , > , == , !=
+      
+
+3. Logical Operators { and , or , not}
+
+ @ Only True when all are True.   
+    True and Ture = True
+    False and False = False
+    True and False = False
+
+ @ True when even one is True.
+    True or True = True 
+    False or False = False
+    True or False = True
+
+ @ not means reverse(toggle)
+    True --> False
+    False --> True 
+
+    not(True) = false
+    not(False) = True
+
+
+4. Membership Operators:
+    # "" in ""
+    # "" not in ""

@@ -1,0 +1,7 @@
+Problem Statement:
+
+Take names separated by spaces.
+Remove duplicate names while preserving the first occurrence.
+
+Eg1: Rahul Amit Rahul Neha Amit
+op: Rahul Amit Neha

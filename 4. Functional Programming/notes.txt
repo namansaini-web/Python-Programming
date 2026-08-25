@@ -1,0 +1,16 @@
+1. Functional Programming -->
+    Alternative to programming using loops.
+
+    Syntax:
+        NameOfTheFunction = lambda parameter : Expression
+
+2. Mapping -->
+    it return a map object, convert it into list, map is transition.
+    --> ye value ye banke milti haa!!
+
+    Syntax:
+        map(Function, iterable)
+        list(map, operator)
+
+3. Filtre -->
+    Only values which satisfy the criteria will get filtred!!

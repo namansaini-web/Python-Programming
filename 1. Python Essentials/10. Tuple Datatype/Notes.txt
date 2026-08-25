@@ -1,0 +1,5 @@
+ #Tuple:
+Immutable datatype similar to lists.
+
+ #Syntax:
+tuple_name = (elem1 , elem2 , elem3)

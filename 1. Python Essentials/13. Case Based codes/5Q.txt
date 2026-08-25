@@ -1,0 +1,12 @@
+Problem Statement:
+
+Take item names and prices for 5 products.
+
+Store -->
+Item names in one list.
+Prices in another list.
+
+Display -->
+Total bill amount.
+Highest priced item.
+Lowest priced item.

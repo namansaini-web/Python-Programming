@@ -1,0 +1,6 @@
+  # SET: represent in '{}' 
+--> Stores only unique elements.
+--> Unordered collection of elements.
+--> No concept of indexing in a set.
+--> It is a mutable datatype.
+--> Automatically removes the duplicate values.

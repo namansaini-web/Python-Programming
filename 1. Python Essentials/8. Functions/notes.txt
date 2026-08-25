@@ -1,0 +1,6 @@
+Syntax :
+
+def function_name():
+    defination 
+
+function_name()  --> Calling a function  

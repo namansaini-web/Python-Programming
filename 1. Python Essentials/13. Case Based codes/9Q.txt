@@ -1,0 +1,5 @@
+Problem Statment:
+
+Find the character that appears,
+ the maximum number of times in a string.
+Ignore spaces.

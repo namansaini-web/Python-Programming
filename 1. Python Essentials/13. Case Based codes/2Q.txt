@@ -1,0 +1,7 @@
+Problem Statement:
+
+Take a sentence as input.
+Display how many times each word appears.
+
+Eg1: python is fun python is easy
+op: {'python': 2, 'is': 2, 'fun': 1, 'easy': 1}

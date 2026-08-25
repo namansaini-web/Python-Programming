@@ -1,0 +1,14 @@
+Problem 6 : Password Validator
+
+Problem Statement
+
+A password is valid if it contains -->
+1. Minimum 8 characters.
+2. At least one uppercase letter.
+3. At least one lowercase letter.
+4. At least one digit. 
+
+Display -->
+Strong Password
+or
+Weak Password
