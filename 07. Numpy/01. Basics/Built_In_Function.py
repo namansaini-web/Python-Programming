@@ -87,5 +87,21 @@ print(student_marks.dtype)
 print(student_marks.shape[0])
 print(student_marks.shape[1])
 
+# Power function:
+x = [2,3,4]
+x = np.power(x,3)
+print(x)
 
+# Rounding off values of an array with built in function:
+values = np.array([10.2345, 20.3425, 76.9874])
+print(np.around(values, 1))
+print(np.around(values))
+
+# Round Down function:  floor function
+R_d = np.array([2.1, 2.9, 5.5, 7.99])
+print(np.floor(R_d))
+
+# Rounding Up function:
+R_up = np.array([2.1, 2.9, 5.5, 7.99])
+print(np.ceil(R_up))
 
