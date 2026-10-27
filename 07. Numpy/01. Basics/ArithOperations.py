@@ -43,3 +43,22 @@ print(marks + 5)
 print(marks * 2)
 print(marks - 10)
 
+# finding square root of the given array:
+a1 = np.array([4,9,16])
+print(np.sqrt(a1))
+
+# Finding cube root of the given array:
+a2 = np.array([8,27,64])
+print(np.cbrt(a2))
+
+# Finding mode of given array:
+a3 = np.array([-10,-5,0,5,10])
+print(np.abs(a3))
+        # OR
+n = len(a3)
+for i in range(n):
+    if a3[i] < 0:
+        a3[i] *= -1
+print(a3)
+        # OR
+print(np.sqrt(np.square(a3)))   # Datatype changed #
